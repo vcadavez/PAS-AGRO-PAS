@@ -1,0 +1,56 @@
+{
+  "index.qmd": {
+    "index.html": "c1e08c27"
+  },
+  "about/index.qmd": {
+    "index.html": "40778858"
+  },
+  "blog/index.qmd": {
+    "index.html": "42f1c6e3"
+  },
+  "blog/radioactivity.qmd": {
+    "radioactivity.html": "8326d173"
+  },
+  "publications/index.qmd": {
+    "index.html": "d41aed12"
+  },
+  "software/index.qmd": {
+    "index.html": "a7660b45"
+  },
+  "talks/french_academy_1901.qmd": {
+    "french_academy_1901.html": "1cef3e73"
+  },
+  "talks/index.qmd": {
+    "index.html": "cd18ea73"
+  },
+  "teaching/index.qmd": {
+    "index.html": "bbdfb531"
+  },
+  "publications/uranium.md": {
+    "uranium.html": "9cd6c308"
+  },
+  "blog/sheep_production.qmd": {
+    "sheep_production.html": "31b90b21"
+  },
+  "publications/lamb-sur.md": {
+    "lamb-sur.html": "3283ce65"
+  },
+  "publications/lamb-sur.qmd": {
+    "lamb-sur.html": "f0335fae"
+  },
+  "software/predmicror.qmd": {
+    "predmicror.html": "63107b15"
+  },
+  "talks/icpmf-2019-predictive.qmd": {
+    "icpmf-2019-predictive.html": "3da11e6e"
+  },
+  "tutorials/sheeps-bcs.qmd": {
+    "sheeps-bcs.html": "0180c679"
+  },
+  "tutorials/index.qmd": {
+    "index.html": "632959bb"
+  },
+  "tutorials/technical terms.qmd": {
+    "technical terms.html": "64df7589"
+  }
+}

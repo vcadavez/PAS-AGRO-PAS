@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/software/index.html",
+    "items": [
+      "/software/predmicror.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/lamb-sur.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/icpmf-2019-predictive.html"
+    ]
+  },
+  {
+    "listing": "/tutorials/index.html",
+    "items": [
+      "/tutorials/technical terms.html"
+    ]
+  }
+]

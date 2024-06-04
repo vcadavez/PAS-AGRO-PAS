@@ -1,0 +1,13 @@
+---
+date: 2019-09-17
+title: "Predictive microbiology made easywith R programming"
+subtitle: "Bragança, Portugal"
+conference: "$11^{th}$ ICPMF"
+#youtube:
+toc: false
+---
+
+## Slides
+
+
+## Video

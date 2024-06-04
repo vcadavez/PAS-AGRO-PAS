@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+@import url(./fonts/league-gothic/league-gothic.css);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+// fonts
+$font-family-sans-serif: Lato, sans-serif !default;
+
+// colors
+$body-bg: #FEFAE0!default;
+$body-color: #8c440e  !default;
+$link-color: #a7cf23 !default;
+$selection-bg: #F9EBC7 !default;
+  
+// headings
+$presentation-heading-font: "League Gothic", sans-serif !default;
+$presentation-heading-text-transform: uppercase !default;
+$presentation-heading-font-weight: normal !default;
+$presentation-h1-font-size: 1.8em !default;
+$presentation-heading-letter-spacing: 0.02em;
+$presentation-heading-color: #5F6F52 !default;
+
+// code blocks
+$code-block-border-color: #ad4410 !default;
+$code-block-bg: transparent !default;
+
+/*-- scss:mixins --*/
+
+// Background generator
+@mixin bodyBackground() {
+  @include radial-gradient(#fcf5c5, #FEFAE0);
+}
+
+/*-- scss:rules --*/
+  
+html * {
+    color-profile: sRGB;
+    rendering-intent: auto;
+  }
+
+// Fix links so they are not cut off  
+.reveal a {
+  line-height: 1.3em;
+}

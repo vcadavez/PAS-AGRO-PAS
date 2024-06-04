@@ -1,0 +1,179 @@
+---
+title: "Terminologia Zootécnica - Animal Science Terminology"
+author: "Vasco Cadavez"
+date: "2024-04-10"
+toc: true
+image: ./terminology/LeghornBrownCoq.jpg
+csl: ./terminology/animal.csl
+categories:
+  - Terminologia
+  - Zootecnia
+  - Terminology
+  - Animal Science
+---
+
+```{r global_options, include=FALSE}
+library(rmarkdown)
+library(kableExtra)
+knitr::opts_knit$set(progress = TRUE, verbose = TRUE)
+knitr::opts_current$get('label')
+library(captioner)
+library(knitr)
+library(rmdformats)
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+
+
+# Bovinos - Cattle
+
+![](./terminology/Bovino.jpg){width=500}
+
+## Bovinos
+
+* Touro - macho inteiro (não castrado)
+* Boi - macho castrado
+* Novilha - fêmea antes do primeiro parto (geralmente com idade inferior a 18-24 meses)
+* Vaca - fêmea adulta que já pariu
+* Vitelo - animal jovem (macho ou fêmea)
+* Parto - ato ou efeito de parir
+
+## Cattle
+
+* Bull - uncastrated male
+* Steer - castrated male
+* Heifer - female that has not had a calf (with less than 18-24 months of age)
+* Cow - adult female that has had a calf
+* Calf - young animal either male or female
+* Calving - the act of parturition in cattle
+
+# Suínos - Swine
+
+![](./terminology/Porco.jpg){width=500}
+
+
+## Suínos
+
+* Varrasco - macho inteiro (não castrado)
+* Porco - macho castrado
+* Marrã - fêmea antes do primeiro parto
+* Porca - fêmea adulta que já pariu
+* Leitão - animal jovem macho ou fêmea
+* Parto - ato ou efeito de parir
+
+## Swine
+
+* Boar - uncastrated male
+* Barrow - castrated male
+* Gilt - female that has not had a litter
+* Sow - adult female that has had a litter
+* Pig - young animal either male or female
+* Farrowing - the act of parturition in swine
+
+# Ovinos - Sheep
+
+![](./terminology/Ovelha.jpg){width=500}
+
+## Ovinos
+
+* Carneiro - macho inteiro (não castrado)
+* Malata - fêmea antes do primeiro parto
+* Ovelha - fêmea adulta que já pariu
+* Cordeiro - animal jovem macho ou fêmea
+* Parto - ato ou efeito de parir
+
+## Sheep
+
+* Ram - uncastrated male
+* Wether - castrated male
+* Ewe - female that has not had a a lamb
+* Lamb - adult female that has had a calf
+* Lambing - the act of parturition in sheep
+
+# Caprinos - Goats
+
+![](./terminology/Cabra.jpg){width=500}
+
+
+## Caprinos
+
+* Bode - macho inteiro (não castrado)
+* Chibo - bode novo
+* Capado - bode ou chibo castrado
+* Anaca - fêmea antes do primeiro parto
+* Cabra - fêmea adulta que já pariu
+* Cabrito - animal jovem (macho ou fêmea)
+* Parto - ato ou efeito de parir
+
+## Goats
+
+* Buck - uncastrated male
+* Wether - castrated male
+* Nanny - adult female that has had a kidding
+* Kid - youg goat (male or female)
+* Kidding - the act of parturition in goats
+
+
+# Cavalos - Horses
+
+
+![](./terminology/Cavalo.jpg){width=500}
+
+
+## Cavalos
+
+* Garanhão - macho inteiro (não castrado)
+* Potranca - fêmea antes do primeiro parto (com menos de 2 anos)
+* Égua - fêmea adulta que já pariu
+* Poldro/Poldra - animal jovem
+* Parto - ato ou efeito de parir
+
+## Horses
+
+* Stalion - uncastrated male
+* Gelding - castrated male
+* Mare - adult female over two years of age
+* Filly - female with less than two years of age that has not had a foal
+* Foal - young horse (male or female)
+* Foaling - the act of parturition in horses
+
+
+# Galinhas - Chickens
+
+A galinha (*Gallus gallus domesticus*) é a subespécie domesticada da galinha selvagem vermelha originária do sudeste da Ásia.
+
+The chicken (*Gallus gallus domesticus*) is a domesticated subspecies of the red junglefowl originally from Southeastern Asia.
+
+![](./terminology/Galinha.png){width=500}
+
+## Galinhas
+
+* Galo - macho inteiro (não castrado)
+* Capão - macho castrado
+* Galinha - fêmea adulta
+* Frango - macho jovem
+* Franga - fêmea jovem
+* Pintainho - animal muito jovem (macho ou fêmea)
+* Postura - saída do ovo do corpo da galinha
+
+## Chickens
+
+* Rooster - uncastrated male chicken
+* Capon - castrated male chicken
+* Hen - female chicken
+* Cockerel - sexually imature male
+* Pullet - sexually immature female
+* Broiler - young chicken at market weight (male or female)
+* Chick - very young chicken not yet at market weight
+* Laying - act of parturition in chickens
+

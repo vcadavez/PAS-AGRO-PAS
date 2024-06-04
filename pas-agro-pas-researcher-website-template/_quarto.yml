@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
+
+website:
+  title: "Vasco Cadavez"
+  site-url: "https://ipb.pt/vcadavez"
+  navbar:
+    background: "#04700d"
+    right:
+      - href: index.qmd
+        text: About
+      - href: publications/index.qmd
+        text: Publications
+      - href: software/index.qmd
+        text: Software
+      - href: talks/index.qmd
+        text: Talks
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: tutorials/index.qmd
+        text: Tutorials
+
+  page-footer:
+    left: "Copyright 2024, Vasco Cadavez"
+    right:
+      - icon: github
+        href: https://github.com/vcadavez
+      - icon: twitter
+        href: https://twitter.com/Vcadavez
+    background: "#04700d"
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: minty #cerulean
+    css: styles.css
+    toc: true
+    html-math-method: katex
+    # include-in-header:
+    #   file: header.html

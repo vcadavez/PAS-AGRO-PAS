@@ -1,0 +1,14 @@
+---
+author: V. A. P. Cadavez & A. Henningsen
+date: 2012-05-25
+title: "The use of seemingly unrelated regression to predict the carcass composition of lambs"
+details: <em>Meat Science</em>, 92(4), 548-553
+link: https://www.sciencedirect.com/science/article/pii/S0309174012001970
+#github: https://github.com/vcadavez
+doi: 10.1016/j.meatsci.2012.05.025
+toc: false
+---
+
+## Abstract
+
+The aim of this study was to develop and evaluate models for predicting the carcass composition of lambs. Forty male lambs were slaughtered and their carcasses were cooled for 24 hours. The subcutaneous fat thickness was measured between the 12th and 13th rib and breast bone tissue thickness was taken in the middle of the second sternebrae. Left side of carcasses was dissected and the proportions of lean meat (LMP), subcutaneous fat (SFP), intermuscular fat (IFP), kidney and knob channel fat (KCFP), and bone plus remainder (BP) were obtained. Models were fitted using the seemingly unrelated regression (SUR) estimator which is novel in this area, and compared to ordinary least squares (OLS) estimates. Models were validated using the PRESS statistic. Our results showed that SUR estimator performed better in predicting LMP and IFP than the OLS estimator. Although objective carcass classification systems could be improved by using the SUR estimator, it has never been used before for predicting carcass composition.

@@ -1,0 +1,24 @@
+---
+about:
+  template: broadside
+  image: vasco-icpmf2019.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/Vcadavez
+    - icon: github
+      text: github
+      href: https://github.com/vcadavez
+    - icon: envelope
+      text: mail
+      href: mailto:vcadavez@ipb.pt
+toc: false
+---
+
+# **Professor Vasco Cadavez**
+**Polytechnic Institute of Bragança<br> Agrarian School & Department of Animal Science<br>Bragança, Portugal**
+
+
+I’m a Professor in the [Animal Science Department](http://cimo.ipb.pt/web/index.php?r=olderresearcher/view&id=77) at the School of Agriculture of the Polytechnic Institute of Braganza (ESA-IPB), where I teach [Animal Breeding](http://portal3.ipb.pt/index.php/pt/guiaects/cursos/licenciaturas/curso?cod_escola=3041&cod_curso=9129) and [Biotechnology Applied to Genetic Improvement](http://portal3.ipb.pt/index.php/pt/guiaects/cursos/licenciaturas/curso?cod_escola=3041&cod_curso=9029). I’m also an active researcher at the [Socio-Ecological Systems Group](http://cimo.ipb.pt/web/index.php?r=olderresearcher/view&id=77) of the [Mountain Research Center (CIMO)](https://cimo.ipb.pt/web/), based at IPB.
+
+<span id="badgeCont162"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont162&rid=A-3958-2010"></script></span>
